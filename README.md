@@ -36,7 +36,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Oracle JetL](https://img.shields.io/badge/-Ojet-05122A?style=flat&logo=OracleL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Java](https://img.shields.io/badge/-Javan%20-05122A?style=flat&logo=Java)&nbsp;
+![Java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=Java)&nbsp;
 
 
 
